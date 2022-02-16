@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KeplerJD
+- 👋 Hi, I’m James @KeplerJD
 - 👀 I’m interested in electronics, embedded software, coding, IoT, and sustainability.
 - 🌱 I’m currently learning Python and C++
 - 💞️ I’m looking to collaborate on ...
